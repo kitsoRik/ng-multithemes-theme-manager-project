@@ -1,0 +1,6 @@
+@import "../theme.scss";
+
+$bg-color: gray;
+$border-color: red;
+
+@include set-button($bg-color, $border-color);

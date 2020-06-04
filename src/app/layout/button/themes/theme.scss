@@ -1,0 +1,6 @@
+@mixin set-button($bg-color, $border-color) {
+	app-button {
+		background-color: $bg-color;
+		border-color: $border-color;
+	}
+}
